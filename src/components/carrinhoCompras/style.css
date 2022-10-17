@@ -1,0 +1,16 @@
+.img-cart{ 
+    width: 150px;
+    height: auto;
+    
+}
+.ps-5{
+    padding-inline-start: 10rem !important;
+}
+.btn-outline-danger{
+    color: #F3450F !important;
+  border-color: #F3450F;
+}
+.btn-outline-danger:hover{
+    background-color: #F3450F !important;
+    color: white !important;
+}

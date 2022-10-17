@@ -1,0 +1,58 @@
+.navBar{
+display: flex;
+justify-content: space-between;
+background-color: #197218;
+align-self: center;
+padding-top: 0.5rem;
+}
+.img{
+   height: 60px;
+position:relative;
+
+
+}
+.h1Gw{
+    color: #fff;
+    padding-left: 8rem;
+    text-shadow: 
+               -1px -1px 1px black, 
+               -1px 1px 1px black,                    
+                1px -1px 1px black,                  
+                1px 1px 1px black;
+}
+
+.list{
+display: flex;
+list-style: none;
+align-items: center;
+padding-right: 0.4rem;
+
+
+}
+
+.item{
+margin-right: 2em;
+
+}
+.div{
+ justify-content: end;
+}
+.item a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.item a:hover{
+    color: #F3450F
+}
+.imgCarrinho{
+    height: 30px;
+}
+.list_start{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    
+    
+    }
+  

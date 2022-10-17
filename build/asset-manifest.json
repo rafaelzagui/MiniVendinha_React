@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac731cae.css",
+    "main.js": "/static/js/main.e17eeb9b.js",
+    "static/media/slide01.jpg": "/static/media/slide01.360d41976af8677dc3f0.jpg",
+    "static/media/logoBarra.png": "/static/media/logoBarra.473b00b0f1e74cd69770.png",
+    "static/media/carrinho.png": "/static/media/carrinho.ca072800f01eb1047c24.png",
+    "index.html": "/index.html",
+    "main.ac731cae.css.map": "/static/css/main.ac731cae.css.map",
+    "main.e17eeb9b.js.map": "/static/js/main.e17eeb9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac731cae.css",
+    "static/js/main.e17eeb9b.js"
+  ]
+}
